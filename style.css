@@ -16,6 +16,7 @@ body{
 }
 .container{
   width: 850px;
+ 
   padding: 30px 35px 35px;
   background: #fff;
   border-radius: 10px;
@@ -162,7 +163,7 @@ body{
     width: 100%;
   }
   .wrapper .preview-img{
-    width: 100%;
+    width: 200%;
     margin: 0 0 15px;
   }
 }
