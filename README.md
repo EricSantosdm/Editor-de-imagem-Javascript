@@ -8,4 +8,4 @@ https://ericsantosdm.github.io/Editor-de-imagem-Javascript/
 
 ### O prototipo do editor de imagem pode ser acessado pelo o link abaixo
 
-https://www.figma.com/proto/tYYETS0kdG1gCQJ1ncjtQ9/Projeto-Multim%C3%ADdia?node-id=1-3&scaling=min-zoom&page-id=1%3A2
+https://www.figma.com/file/tYYETS0kdG1gCQJ1ncjtQ9/Projeto-Multim%C3%ADdia?type=design&node-id=1%3A2&t=3RxiPrLMczLp39Qi-1
